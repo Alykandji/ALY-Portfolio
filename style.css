@@ -1058,3 +1058,7 @@ a {
         height: 28px;
     }
 }
+.logo{
+    max-width: 10%;
+    max-height: 5%;
+}
